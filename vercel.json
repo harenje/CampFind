@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "SANITIZE_HTML": "false",
+      "POSTCSS": "false"
+    }
+  }
+}
