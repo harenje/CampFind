@@ -1,1 +1,2 @@
-sanitize-html: postcss
+sanitize-html
+postcss
