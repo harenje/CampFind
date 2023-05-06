@@ -1,5 +1,5 @@
 {
-  "name": "yelpcampcodealong",
+  "name": "yelpcampcode",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,7 +28,6 @@
     "multer-storage-cloudinary": "^4.0.0",
     "passport": "^0.5.2",
     "passport-local": "^1.0.0",
-     "sanitize-html": "^2.7.0",
     "passport-local-mongoose": "^6.1.0",
     "startbootstrap-grayscale": "^7.0.4"
   }
