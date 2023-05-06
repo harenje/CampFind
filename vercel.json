@@ -1,8 +1,8 @@
 {
   "build": {
-    "exclude": [
-      "node_modules/sanitize-html/**",
-      "node_modules/postcss/**"
-    ]
+    "env": {
+      "SANITIZE_HTML": "false",
+      "POSTCSS": "false"
+    }
   }
 }
